@@ -11,3 +11,4 @@ we will learn how to deploy our website on servier
 
 ##How to contribute
 you can contribute by going to ww.dlkfjd
+fork this repo and send pull requests
