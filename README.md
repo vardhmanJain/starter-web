@@ -1,5 +1,6 @@
 # Starter Web Repo
 adding this change to understand rebase
+adding some text in master branch
 This repository is for showing how Git and GitHub work
 ##Intro 
 This change is for the purpose of learning automatic merges
