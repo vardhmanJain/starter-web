@@ -4,7 +4,8 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
-	vardhman manager vardhmanthe90d
+	vardhman manager vardhmanthe90d	
+	tanmay 	assistant tanmaybot
 
 # THANKS
 
